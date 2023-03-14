@@ -6,4 +6,4 @@
 
 
 <div align="center">
-<a href="https://discord.gg/1932" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/99282352567508992/?theme=dark&bg=292b2f&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+<a href="https://discord.gg/1932" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/99282352567508992/?theme=dark&bg=292b2f&animated=true&hideDiscrim=False&borderRadius=30px"></a>
